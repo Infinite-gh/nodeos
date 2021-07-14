@@ -1,0 +1,9 @@
+{
+    "loginManager": {
+        "name": "ILM",
+        "path": "/bin/ILM.js"
+    },
+    "ISH": {
+        "configPath": "/var/ISHconf.json"
+    }
+}

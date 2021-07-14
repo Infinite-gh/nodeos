@@ -1,0 +1,4 @@
+{
+    "logPath": "/other/log.js",
+    "defaultShell": "/bin/ISH.js"
+}
