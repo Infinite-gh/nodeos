@@ -15,7 +15,7 @@ module.exports = {
             console.log(`please run this command with a package name or help`)
         }else{
             if(args[1] === `help`){
-                console.log(`among`)
+                console.log(`commands\nIPM update => update the repository\nIPM [package name] => install [package name]\n`)
             }else{
 
                 const DJ = (json, value) =>{
