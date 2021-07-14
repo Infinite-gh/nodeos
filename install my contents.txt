@@ -1,2 +1,5 @@
-shelljs
-readline
+(npm) shelljs
+(npm) readline
+nodejs (newest version)
+npm
+git (the command line version)+
