@@ -2,4 +2,4 @@
 (npm) readline
 nodejs (newest version)
 npm
-git (the command line version)+
+git (the command line version (for IPM))
