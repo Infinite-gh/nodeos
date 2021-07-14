@@ -28,7 +28,7 @@ module.exports = {
 
             // history logging
 
-            log(`entered ${line} into the cmd.`, 'ISH', 'cmdhandler')
+            log(`entered ${line} into the cmd.`, 'ISH', 'history')
 
             // normal command handler stuff
 
