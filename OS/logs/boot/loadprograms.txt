@@ -1629,3 +1629,2880 @@ found user defaultuser
 (at 2021-14-07 19:47:12)
 
 V
+
+V
+
+found user defaultuser 
+(at 2021-14-07 20:38:42)
+
+V
+
+V
+
+found program ILM 
+(at 2021-14-07 20:38:49)
+
+V
+
+V
+
+found program IPM 
+(at 2021-14-07 20:38:49)
+
+V
+
+V
+
+found program ISH 
+(at 2021-14-07 20:38:49)
+
+V
+
+V
+
+found program clear 
+(at 2021-14-07 20:38:49)
+
+V
+
+V
+
+found program exit 
+(at 2021-14-07 20:38:49)
+
+V
+
+V
+
+found program help 
+(at 2021-14-07 20:38:49)
+
+V
+
+V
+
+found user defaultuser 
+(at 2021-14-07 20:38:49)
+
+V
+
+V
+
+found program ILM 
+(at 2021-14-07 20:39:7)
+
+V
+
+V
+
+found program IPM 
+(at 2021-14-07 20:39:7)
+
+V
+
+V
+
+found program ISH 
+(at 2021-14-07 20:39:7)
+
+V
+
+V
+
+found program clear 
+(at 2021-14-07 20:39:7)
+
+V
+
+V
+
+found program exit 
+(at 2021-14-07 20:39:7)
+
+V
+
+V
+
+found program help 
+(at 2021-14-07 20:39:7)
+
+V
+
+V
+
+found user defaultuser 
+(at 2021-14-07 20:39:7)
+
+V
+
+
+V
+
+found program ILM 
+(at 2021-14-07 20:45:35 with cpu clocked @ 3724mhz)
+
+V
+
+
+
+V
+
+found program IPM 
+(at 2021-14-07 20:45:35 with cpu clocked @ 3724mhz)
+
+V
+
+
+
+V
+
+found program ISH 
+(at 2021-14-07 20:45:35 with cpu clocked @ 3724mhz)
+
+V
+
+
+
+V
+
+found program clear 
+(at 2021-14-07 20:45:35 with cpu clocked @ 3698mhz)
+
+V
+
+
+
+V
+
+found program exit 
+(at 2021-14-07 20:45:35 with cpu clocked @ 3698mhz)
+
+V
+
+
+
+V
+
+found program help 
+(at 2021-14-07 20:45:35 with cpu clocked @ 3698mhz)
+
+V
+
+
+
+V
+
+found user defaultuser 
+(at 2021-14-07 20:45:35 with cpu clocked @ 3698mhz)
+
+V
+
+
+
+V
+
+found program ILM 
+(at 2021-14-07 20:47:14 with cpu running @ 3698mhz)
+
+V
+
+
+
+V
+
+found program IPM 
+(at 2021-14-07 20:47:14 with cpu running @ 3698mhz)
+
+V
+
+
+
+V
+
+found program ISH 
+(at 2021-14-07 20:47:14 with cpu running @ 3698mhz)
+
+V
+
+
+
+V
+
+found program clear 
+(at 2021-14-07 20:47:14 with cpu running @ 3698mhz)
+
+V
+
+
+
+V
+
+found program exit 
+(at 2021-14-07 20:47:14 with cpu running @ 3698mhz)
+
+V
+
+
+
+V
+
+found program help 
+(at 2021-14-07 20:47:14 with cpu running @ 3716mhz)
+
+V
+
+
+
+V
+
+found user defaultuser 
+(at 2021-14-07 20:47:14 with cpu running @ 3716mhz)
+
+V
+
+
+
+V
+
+found program ILM 
+(at 2021-14-07 20:54:47 with cpu running @ 2842mhz)
+
+V
+
+
+
+V
+
+found program IPM 
+(at 2021-14-07 20:54:47 with cpu running @ 2842mhz)
+
+V
+
+
+
+V
+
+found program ISH 
+(at 2021-14-07 20:54:47 with cpu running @ 2842mhz)
+
+V
+
+
+
+V
+
+found program clear 
+(at 2021-14-07 20:54:47 with cpu running @ 2842mhz)
+
+V
+
+
+
+V
+
+found program exit 
+(at 2021-14-07 20:54:47 with cpu running @ 2842mhz)
+
+V
+
+
+
+V
+
+found program help 
+(at 2021-14-07 20:54:47 with cpu running @ 2842mhz)
+
+V
+
+
+
+V
+
+found user defaultuser 
+(at 2021-14-07 20:54:47 with cpu running @ 3762mhz)
+
+V
+
+
+
+V
+
+found program ILM 
+(at 2021-14-07 20:55:46 with cpu running @ 3641mhz)
+
+V
+
+
+
+V
+
+found program IPM 
+(at 2021-14-07 20:55:46 with cpu running @ 3641mhz)
+
+V
+
+
+
+V
+
+found program ISH 
+(at 2021-14-07 20:55:46 with cpu running @ 3641mhz)
+
+V
+
+
+
+V
+
+found program clear 
+(at 2021-14-07 20:55:46 with cpu running @ 3641mhz)
+
+V
+
+
+
+V
+
+found program exit 
+(at 2021-14-07 20:55:46 with cpu running @ 3641mhz)
+
+V
+
+
+
+V
+
+found program help 
+(at 2021-14-07 20:55:46 with cpu running @ 3641mhz)
+
+V
+
+
+
+V
+
+found user defaultuser 
+(at 2021-14-07 20:55:46 with cpu running @ 3743mhz)
+
+V
+
+
+
+V
+
+found program ILM 
+(at 2021-14-07 20:56:17 with cpu running @ 3335mhz)
+
+V
+
+
+
+V
+
+found program IPM 
+(at 2021-14-07 20:56:17 with cpu running @ 3335mhz)
+
+V
+
+
+
+V
+
+found program ISH 
+(at 2021-14-07 20:56:17 with cpu running @ 3335mhz)
+
+V
+
+
+
+V
+
+found program clear 
+(at 2021-14-07 20:56:17 with cpu running @ 3335mhz)
+
+V
+
+
+
+V
+
+found program exit 
+(at 2021-14-07 20:56:17 with cpu running @ 3335mhz)
+
+V
+
+
+
+V
+
+found program help 
+(at 2021-14-07 20:56:17 with cpu running @ 3335mhz)
+
+V
+
+
+
+V
+
+found user defaultuser 
+(at 2021-14-07 20:56:17 with cpu running @ 3773mhz)
+
+V
+
+
+
+V
+
+found program ILM 
+(at 2021-14-07 20:56:48 with cpu running @ 2905mhz)
+
+V
+
+
+
+V
+
+found program IPM 
+(at 2021-14-07 20:56:48 with cpu running @ 2905mhz)
+
+V
+
+
+
+V
+
+found program ISH 
+(at 2021-14-07 20:56:48 with cpu running @ 2905mhz)
+
+V
+
+
+
+V
+
+found program clear 
+(at 2021-14-07 20:56:48 with cpu running @ 2905mhz)
+
+V
+
+
+
+V
+
+found program exit 
+(at 2021-14-07 20:56:48 with cpu running @ 2905mhz)
+
+V
+
+
+
+V
+
+found program help 
+(at 2021-14-07 20:56:48 with cpu running @ 2905mhz)
+
+V
+
+
+
+V
+
+found program history 
+(at 2021-14-07 20:56:48 with cpu running @ 3769mhz)
+
+V
+
+
+
+V
+
+found user defaultuser 
+(at 2021-14-07 20:56:48 with cpu running @ 3769mhz)
+
+V
+
+
+
+V
+
+found program ILM 
+(at 2021-14-07 20:56:54 with cpu running @ 3481mhz)
+
+V
+
+
+
+V
+
+found program IPM 
+(at 2021-14-07 20:56:54 with cpu running @ 3481mhz)
+
+V
+
+
+
+V
+
+found program ISH 
+(at 2021-14-07 20:56:54 with cpu running @ 3481mhz)
+
+V
+
+
+
+V
+
+found program clear 
+(at 2021-14-07 20:56:54 with cpu running @ 3481mhz)
+
+V
+
+
+
+V
+
+found program exit 
+(at 2021-14-07 20:56:54 with cpu running @ 3481mhz)
+
+V
+
+
+
+V
+
+found program help 
+(at 2021-14-07 20:56:54 with cpu running @ 3481mhz)
+
+V
+
+
+
+V
+
+found program history 
+(at 2021-14-07 20:56:54 with cpu running @ 3421mhz)
+
+V
+
+
+
+V
+
+found user defaultuser 
+(at 2021-14-07 20:56:54 with cpu running @ 3421mhz)
+
+V
+
+
+
+V
+
+found program ILM 
+(at 2021-14-07 21:0:58 with cpu running @ 2734mhz)
+
+V
+
+
+
+V
+
+found program IPM 
+(at 2021-14-07 21:0:58 with cpu running @ 2734mhz)
+
+V
+
+
+
+V
+
+found program ISH 
+(at 2021-14-07 21:0:58 with cpu running @ 2734mhz)
+
+V
+
+
+
+V
+
+found program clear 
+(at 2021-14-07 21:0:58 with cpu running @ 2734mhz)
+
+V
+
+
+
+V
+
+found program exit 
+(at 2021-14-07 21:0:58 with cpu running @ 2734mhz)
+
+V
+
+
+
+V
+
+found program help 
+(at 2021-14-07 21:0:58 with cpu running @ 2734mhz)
+
+V
+
+
+
+V
+
+found user defaultuser 
+(at 2021-14-07 21:0:58 with cpu running @ 3784mhz)
+
+V
+
+
+
+V
+
+found program ILM 
+(at 2021-14-07 21:1:4 with cpu running @ 3220mhz)
+
+V
+
+
+
+V
+
+found program IPM 
+(at 2021-14-07 21:1:4 with cpu running @ 3220mhz)
+
+V
+
+
+
+V
+
+found program ISH 
+(at 2021-14-07 21:1:4 with cpu running @ 3220mhz)
+
+V
+
+
+
+V
+
+found program clear 
+(at 2021-14-07 21:1:4 with cpu running @ 3220mhz)
+
+V
+
+
+
+V
+
+found program exit 
+(at 2021-14-07 21:1:4 with cpu running @ 3220mhz)
+
+V
+
+
+
+V
+
+found program help 
+(at 2021-14-07 21:1:4 with cpu running @ 3220mhz)
+
+V
+
+
+
+V
+
+found user defaultuser 
+(at 2021-14-07 21:1:4 with cpu running @ 3758mhz)
+
+V
+
+
+
+V
+
+found program ILM 
+(at 2021-14-07 21:1:6 with cpu running @ 3775mhz)
+
+V
+
+
+
+V
+
+found program IPM 
+(at 2021-14-07 21:1:6 with cpu running @ 3775mhz)
+
+V
+
+
+
+V
+
+found program ISH 
+(at 2021-14-07 21:1:6 with cpu running @ 3775mhz)
+
+V
+
+
+
+V
+
+found program clear 
+(at 2021-14-07 21:1:6 with cpu running @ 3775mhz)
+
+V
+
+
+
+V
+
+found program exit 
+(at 2021-14-07 21:1:6 with cpu running @ 3775mhz)
+
+V
+
+
+
+V
+
+found program help 
+(at 2021-14-07 21:1:6 with cpu running @ 3775mhz)
+
+V
+
+
+
+V
+
+found user defaultuser 
+(at 2021-14-07 21:1:6 with cpu running @ 3769mhz)
+
+V
+
+
+
+V
+
+found program ILM 
+(at 2021-14-07 21:1:27 with cpu running @ 3665mhz)
+
+V
+
+
+
+V
+
+found program IPM 
+(at 2021-14-07 21:1:27 with cpu running @ 3665mhz)
+
+V
+
+
+
+V
+
+found program ISH 
+(at 2021-14-07 21:1:27 with cpu running @ 3665mhz)
+
+V
+
+
+
+V
+
+found program clear 
+(at 2021-14-07 21:1:27 with cpu running @ 3665mhz)
+
+V
+
+
+
+V
+
+found program exit 
+(at 2021-14-07 21:1:27 with cpu running @ 3665mhz)
+
+V
+
+
+
+V
+
+found program help 
+(at 2021-14-07 21:1:27 with cpu running @ 3665mhz)
+
+V
+
+
+
+V
+
+found user defaultuser 
+(at 2021-14-07 21:1:27 with cpu running @ 3734mhz)
+
+V
+
+
+
+V
+
+found program ILM 
+(at 2021-14-07 21:3:23 with cpu running @ 3507mhz)
+
+V
+
+
+
+V
+
+found program IPM 
+(at 2021-14-07 21:3:23 with cpu running @ 3507mhz)
+
+V
+
+
+
+V
+
+found program ISH 
+(at 2021-14-07 21:3:23 with cpu running @ 3507mhz)
+
+V
+
+
+
+V
+
+found program clear 
+(at 2021-14-07 21:3:23 with cpu running @ 3507mhz)
+
+V
+
+
+
+V
+
+found program exit 
+(at 2021-14-07 21:3:23 with cpu running @ 3507mhz)
+
+V
+
+
+
+V
+
+found program help 
+(at 2021-14-07 21:3:23 with cpu running @ 3507mhz)
+
+V
+
+
+
+V
+
+found program history 
+(at 2021-14-07 21:3:23 with cpu running @ 3750mhz)
+
+V
+
+
+
+V
+
+found user defaultuser 
+(at 2021-14-07 21:3:23 with cpu running @ 3750mhz)
+
+V
+
+
+
+V
+
+found program ILM 
+(at 2021-14-07 21:4:0 with cpu running @ 3677mhz)
+
+V
+
+
+
+V
+
+found program IPM 
+(at 2021-14-07 21:4:0 with cpu running @ 3677mhz)
+
+V
+
+
+
+V
+
+found program ISH 
+(at 2021-14-07 21:4:0 with cpu running @ 3677mhz)
+
+V
+
+
+
+V
+
+found program clear 
+(at 2021-14-07 21:4:0 with cpu running @ 3677mhz)
+
+V
+
+
+
+V
+
+found program exit 
+(at 2021-14-07 21:4:0 with cpu running @ 3677mhz)
+
+V
+
+
+
+V
+
+found program help 
+(at 2021-14-07 21:4:0 with cpu running @ 3789mhz)
+
+V
+
+
+
+V
+
+found program history 
+(at 2021-14-07 21:4:0 with cpu running @ 3789mhz)
+
+V
+
+
+
+V
+
+found user defaultuser 
+(at 2021-14-07 21:4:0 with cpu running @ 3789mhz)
+
+V
+
+
+
+V
+
+found program ILM 
+(at 2021-14-07 21:4:25 with cpu running @ 3016mhz)
+
+V
+
+
+
+V
+
+found program IPM 
+(at 2021-14-07 21:4:25 with cpu running @ 3016mhz)
+
+V
+
+
+
+V
+
+found program ISH 
+(at 2021-14-07 21:4:25 with cpu running @ 3016mhz)
+
+V
+
+
+
+V
+
+found program clear 
+(at 2021-14-07 21:4:25 with cpu running @ 3016mhz)
+
+V
+
+
+
+V
+
+found program exit 
+(at 2021-14-07 21:4:25 with cpu running @ 3016mhz)
+
+V
+
+
+
+V
+
+found program help 
+(at 2021-14-07 21:4:25 with cpu running @ 3016mhz)
+
+V
+
+
+
+V
+
+found program history 
+(at 2021-14-07 21:4:25 with cpu running @ 3747mhz)
+
+V
+
+
+
+V
+
+found user defaultuser 
+(at 2021-14-07 21:4:25 with cpu running @ 3747mhz)
+
+V
+
+
+
+V
+
+found program ILM 
+(at 2021-14-07 21:8:25 with cpu running @ 3444mhz)
+
+V
+
+
+
+V
+
+found program IPM 
+(at 2021-14-07 21:8:25 with cpu running @ 3444mhz)
+
+V
+
+
+
+V
+
+found program ISH 
+(at 2021-14-07 21:8:25 with cpu running @ 3444mhz)
+
+V
+
+
+
+V
+
+found program clear 
+(at 2021-14-07 21:8:25 with cpu running @ 3444mhz)
+
+V
+
+
+
+V
+
+found program exit 
+(at 2021-14-07 21:8:25 with cpu running @ 3444mhz)
+
+V
+
+
+
+V
+
+found program help 
+(at 2021-14-07 21:8:25 with cpu running @ 3707mhz)
+
+V
+
+
+
+V
+
+found user defaultuser 
+(at 2021-14-07 21:8:25 with cpu running @ 3707mhz)
+
+V
+
+
+
+V
+
+found program ILM 
+(at 2021-14-07 21:8:54 with cpu running @ 3157mhz)
+
+V
+
+
+
+V
+
+found program IPM 
+(at 2021-14-07 21:8:54 with cpu running @ 3157mhz)
+
+V
+
+
+
+V
+
+found program ISH 
+(at 2021-14-07 21:8:54 with cpu running @ 3157mhz)
+
+V
+
+
+
+V
+
+found program clear 
+(at 2021-14-07 21:8:54 with cpu running @ 3157mhz)
+
+V
+
+
+
+V
+
+found program exit 
+(at 2021-14-07 21:8:54 with cpu running @ 3157mhz)
+
+V
+
+
+
+V
+
+found program help 
+(at 2021-14-07 21:8:54 with cpu running @ 3157mhz)
+
+V
+
+
+
+V
+
+found user defaultuser 
+(at 2021-14-07 21:8:54 with cpu running @ 3766mhz)
+
+V
+
+
+
+V
+
+found program ILM 
+(at 2021-14-07 21:14:51 with cpu running @ 3440mhz)
+
+V
+
+
+
+V
+
+found program IPM 
+(at 2021-14-07 21:14:51 with cpu running @ 3440mhz)
+
+V
+
+
+
+V
+
+found program ISH 
+(at 2021-14-07 21:14:51 with cpu running @ 3440mhz)
+
+V
+
+
+
+V
+
+found program clear 
+(at 2021-14-07 21:14:51 with cpu running @ 3440mhz)
+
+V
+
+
+
+V
+
+found program exit 
+(at 2021-14-07 21:14:51 with cpu running @ 3440mhz)
+
+V
+
+
+
+V
+
+found program help 
+(at 2021-14-07 21:14:51 with cpu running @ 3440mhz)
+
+V
+
+
+
+V
+
+found program history 
+(at 2021-14-07 21:14:51 with cpu running @ 3783mhz)
+
+V
+
+
+
+V
+
+found user defaultuser 
+(at 2021-14-07 21:14:51 with cpu running @ 3783mhz)
+
+V
+
+
+
+V
+
+found program ILM 
+(at 2021-14-07 21:33:57 with cpu running @ 2665mhz)
+
+V
+
+
+
+V
+
+found program IPM 
+(at 2021-14-07 21:33:57 with cpu running @ 2665mhz)
+
+V
+
+
+
+V
+
+found program ISH 
+(at 2021-14-07 21:33:57 with cpu running @ 2665mhz)
+
+V
+
+
+
+V
+
+found program clear 
+(at 2021-14-07 21:33:57 with cpu running @ 2665mhz)
+
+V
+
+
+
+V
+
+found program exit 
+(at 2021-14-07 21:33:57 with cpu running @ 2665mhz)
+
+V
+
+
+
+V
+
+found program help 
+(at 2021-14-07 21:33:57 with cpu running @ 3392mhz)
+
+V
+
+
+
+V
+
+found program history 
+(at 2021-14-07 21:33:57 with cpu running @ 3392mhz)
+
+V
+
+
+
+V
+
+found user defaultuser 
+(at 2021-14-07 21:33:57 with cpu running @ 3392mhz)
+
+V
+
+
+
+V
+
+found program ILM 
+(at 2021-14-07 21:34:41 with cpu running @ 3160mhz)
+
+V
+
+
+
+V
+
+found program IPM 
+(at 2021-14-07 21:34:41 with cpu running @ 3160mhz)
+
+V
+
+
+
+V
+
+found program ISH 
+(at 2021-14-07 21:34:41 with cpu running @ 3160mhz)
+
+V
+
+
+
+V
+
+found program clear 
+(at 2021-14-07 21:34:41 with cpu running @ 3160mhz)
+
+V
+
+
+
+V
+
+found program exit 
+(at 2021-14-07 21:34:41 with cpu running @ 3160mhz)
+
+V
+
+
+
+V
+
+found program help 
+(at 2021-14-07 21:34:41 with cpu running @ 3392mhz)
+
+V
+
+
+
+V
+
+found program history 
+(at 2021-14-07 21:34:41 with cpu running @ 3392mhz)
+
+V
+
+
+
+V
+
+found user defaultuser 
+(at 2021-14-07 21:34:41 with cpu running @ 3392mhz)
+
+V
+
+
+
+V
+
+found program ILM 
+(at 2021-14-07 21:35:57 with cpu running @ 3145mhz)
+
+V
+
+
+
+V
+
+found program IPM 
+(at 2021-14-07 21:35:57 with cpu running @ 3145mhz)
+
+V
+
+
+
+V
+
+found program ISH 
+(at 2021-14-07 21:35:57 with cpu running @ 3145mhz)
+
+V
+
+
+
+V
+
+found program clear 
+(at 2021-14-07 21:35:57 with cpu running @ 3145mhz)
+
+V
+
+
+
+V
+
+found program exit 
+(at 2021-14-07 21:35:57 with cpu running @ 3145mhz)
+
+V
+
+
+
+V
+
+found program help 
+(at 2021-14-07 21:35:57 with cpu running @ 3145mhz)
+
+V
+
+
+
+V
+
+found program history 
+(at 2021-14-07 21:35:57 with cpu running @ 3392mhz)
+
+V
+
+
+
+V
+
+found program ipmpackages 
+(at 2021-14-07 21:35:57 with cpu running @ 3392mhz)
+
+V
+
+
+
+V
+
+found user defaultuser 
+(at 2021-14-07 21:35:57 with cpu running @ 3392mhz)
+
+V
+
+
+
+V
+
+found program ILM 
+(at 2021-16-07 10:19:10 with cpu running @ 2334mhz)
+
+V
+
+
+
+V
+
+found program ISH 
+(at 2021-16-07 10:19:10 with cpu running @ 2334mhz)
+
+V
+
+
+
+V
+
+found program IPM 
+(at 2021-16-07 10:19:10 with cpu running @ 2334mhz)
+
+V
+
+
+
+V
+
+found program clear 
+(at 2021-16-07 10:19:10 with cpu running @ 2334mhz)
+
+V
+
+
+
+V
+
+found program exit 
+(at 2021-16-07 10:19:10 with cpu running @ 3561mhz)
+
+V
+
+
+
+V
+
+found program help 
+(at 2021-16-07 10:19:10 with cpu running @ 3561mhz)
+
+V
+
+
+
+V
+
+found program history 
+(at 2021-16-07 10:19:10 with cpu running @ 3561mhz)
+
+V
+
+
+
+V
+
+found program ipmpackages 
+(at 2021-16-07 10:19:10 with cpu running @ 3561mhz)
+
+V
+
+
+
+V
+
+found user defaultuser 
+(at 2021-16-07 10:19:10 with cpu running @ 3561mhz)
+
+V
+
+
+
+V
+
+found program ILM 
+(at 2021-16-07 11:3:20 with cpu running @ 3588mhz)
+
+V
+
+
+
+V
+
+found program IPM 
+(at 2021-16-07 11:3:20 with cpu running @ 3588mhz)
+
+V
+
+
+
+V
+
+found program ISH 
+(at 2021-16-07 11:3:20 with cpu running @ 3588mhz)
+
+V
+
+
+
+V
+
+found program clear 
+(at 2021-16-07 11:3:20 with cpu running @ 3588mhz)
+
+V
+
+
+
+V
+
+found program exit 
+(at 2021-16-07 11:3:20 with cpu running @ 3722mhz)
+
+V
+
+
+
+V
+
+found program help 
+(at 2021-16-07 11:3:20 with cpu running @ 3722mhz)
+
+V
+
+
+
+V
+
+found program history 
+(at 2021-16-07 11:3:20 with cpu running @ 3722mhz)
+
+V
+
+
+
+V
+
+found program ipmpackages 
+(at 2021-16-07 11:3:20 with cpu running @ 3722mhz)
+
+V
+
+
+
+V
+
+found user defaultuser 
+(at 2021-16-07 11:3:20 with cpu running @ 3722mhz)
+
+V
+
+
+
+V
+
+found program ILM 
+(at 2021-17-07 11:19:38 with cpu running @ 1596mhz)
+
+V
+
+
+
+V
+
+found program IPM 
+(at 2021-17-07 11:19:38 with cpu running @ 1678mhz)
+
+V
+
+
+
+V
+
+found program exit 
+(at 2021-17-07 11:19:38 with cpu running @ 1723mhz)
+
+V
+
+
+
+V
+
+found program ISH 
+(at 2021-17-07 11:19:38 with cpu running @ 1883mhz)
+
+V
+
+
+
+V
+
+found program help 
+(at 2021-17-07 11:19:38 with cpu running @ 1780mhz)
+
+V
+
+
+
+V
+
+found program history 
+(at 2021-17-07 11:19:38 with cpu running @ 1596mhz)
+
+V
+
+
+
+V
+
+found program ipmpackages 
+(at 2021-17-07 11:19:38 with cpu running @ 1596mhz)
+
+V
+
+
+
+V
+
+found program clear 
+(at 2021-17-07 11:19:38 with cpu running @ 1723mhz)
+
+V
+
+
+
+V
+
+found user defaultuser 
+(at 2021-17-07 11:19:38 with cpu running @ 1692mhz)
+
+V
+
+
+
+V
+
+found program ILM 
+(at 2021-17-07 11:20:48 with cpu running @ 3019mhz)
+
+V
+
+
+
+V
+
+found program IPM 
+(at 2021-17-07 11:20:48 with cpu running @ 3019mhz)
+
+V
+
+
+
+V
+
+found program ISH 
+(at 2021-17-07 11:20:48 with cpu running @ 3019mhz)
+
+V
+
+
+
+V
+
+found program clear 
+(at 2021-17-07 11:20:48 with cpu running @ 3019mhz)
+
+V
+
+
+
+V
+
+found program exit 
+(at 2021-17-07 11:20:48 with cpu running @ 3019mhz)
+
+V
+
+
+
+V
+
+found program help 
+(at 2021-17-07 11:20:48 with cpu running @ 3748mhz)
+
+V
+
+
+
+V
+
+found program history 
+(at 2021-17-07 11:20:48 with cpu running @ 3748mhz)
+
+V
+
+
+
+V
+
+found program ipmpackages 
+(at 2021-17-07 11:20:48 with cpu running @ 3748mhz)
+
+V
+
+
+
+V
+
+found user defaultuser 
+(at 2021-17-07 11:20:48 with cpu running @ 3748mhz)
+
+V
+
+
+
+V
+
+found program ILM 
+(at 2021-17-07 11:22:46 with cpu running @ 2090mhz)
+
+V
+
+
+
+V
+
+found program exit 
+(at 2021-17-07 11:22:46 with cpu running @ 2090mhz)
+
+V
+
+
+
+V
+
+found program IPM 
+(at 2021-17-07 11:22:46 with cpu running @ 2090mhz)
+
+V
+
+
+
+V
+
+found program ISH 
+(at 2021-17-07 11:22:46 with cpu running @ 2090mhz)
+
+V
+
+
+
+V
+
+found program help 
+(at 2021-17-07 11:22:46 with cpu running @ 3748mhz)
+
+V
+
+
+
+V
+
+found program clear 
+(at 2021-17-07 11:22:46 with cpu running @ 2090mhz)
+
+V
+
+
+
+V
+
+found program history 
+(at 2021-17-07 11:22:46 with cpu running @ 3748mhz)
+
+V
+
+
+
+V
+
+found program ipmpackages 
+(at 2021-17-07 11:22:46 with cpu running @ 3748mhz)
+
+V
+
+
+
+V
+
+found user defaultuser 
+(at 2021-17-07 11:22:46 with cpu running @ 3748mhz)
+
+V
+
+
+
+V
+
+found program ILM 
+(at 2021-18-07 21:16:55 with cpu running @ 1596mhz)
+
+V
+
+
+
+V
+
+found program exit 
+(at 2021-18-07 21:16:55 with cpu running @ 1678mhz)
+
+V
+
+
+
+V
+
+found program IPM 
+(at 2021-18-07 21:16:55 with cpu running @ 1970mhz)
+
+V
+
+
+
+V
+
+found program help 
+(at 2021-18-07 21:16:55 with cpu running @ 2150mhz)
+
+V
+
+
+
+V
+
+found program history 
+(at 2021-18-07 21:16:55 with cpu running @ 1628mhz)
+
+V
+
+
+
+V
+
+found program ISH 
+(at 2021-18-07 21:16:55 with cpu running @ 1769mhz)
+
+V
+
+
+
+V
+
+found program ipmpackages 
+(at 2021-18-07 21:16:55 with cpu running @ 1628mhz)
+
+V
+
+
+
+V
+
+found user defaultuser 
+(at 2021-18-07 21:16:55 with cpu running @ 2252mhz)
+
+V
+
+
+
+V
+
+found program clear 
+(at 2021-18-07 21:16:55 with cpu running @ 2524mhz)
+
+V
+
+
+
+V
+
+found program ILM 
+(at 2021-18-07 21:19:9 with cpu running @ 2306mhz)
+
+V
+
+
+
+V
+
+found program IPM 
+(at 2021-18-07 21:19:9 with cpu running @ 2306mhz)
+
+V
+
+
+
+V
+
+found program ISH 
+(at 2021-18-07 21:19:9 with cpu running @ 2306mhz)
+
+V
+
+
+
+V
+
+found program clear 
+(at 2021-18-07 21:19:9 with cpu running @ 2306mhz)
+
+V
+
+
+
+V
+
+found program exit 
+(at 2021-18-07 21:19:9 with cpu running @ 2306mhz)
+
+V
+
+
+
+V
+
+found program help 
+(at 2021-18-07 21:19:9 with cpu running @ 2306mhz)
+
+V
+
+
+
+V
+
+found program history 
+(at 2021-18-07 21:19:9 with cpu running @ 3562mhz)
+
+V
+
+
+
+V
+
+found program ipmpackages 
+(at 2021-18-07 21:19:9 with cpu running @ 3562mhz)
+
+V
+
+
+
+V
+
+found user defaultuser 
+(at 2021-18-07 21:19:9 with cpu running @ 3562mhz)
+
+V
+
+
+
+V
+
+found program ILM 
+(at 2021-19-07 16:24:16 with cpu running @ 2593mhz)
+
+V
+
+
+
+V
+
+found program IPM 
+(at 2021-19-07 16:24:16 with cpu running @ 2593mhz)
+
+V
+
+
+
+V
+
+found program ISH 
+(at 2021-19-07 16:24:16 with cpu running @ 2593mhz)
+
+V
+
+
+
+V
+
+found program clear 
+(at 2021-19-07 16:24:16 with cpu running @ 2593mhz)
+
+V
+
+
+
+V
+
+found program exit 
+(at 2021-19-07 16:24:16 with cpu running @ 2593mhz)
+
+V
+
+
+
+V
+
+found program help 
+(at 2021-19-07 16:24:16 with cpu running @ 3660mhz)
+
+V
+
+
+
+V
+
+found program history 
+(at 2021-19-07 16:24:16 with cpu running @ 3660mhz)
+
+V
+
+
+
+V
+
+found user defaultuser 
+(at 2021-19-07 16:24:16 with cpu running @ 3571mhz)
+
+V
+
+
+
+V
+
+found program ILM 
+(at 2021-19-07 16:24:58 with cpu running @ 2324mhz)
+
+V
+
+
+
+V
+
+found program IPM 
+(at 2021-19-07 16:24:58 with cpu running @ 2324mhz)
+
+V
+
+
+
+V
+
+found program ISH 
+(at 2021-19-07 16:24:58 with cpu running @ 2324mhz)
+
+V
+
+
+
+V
+
+found program clear 
+(at 2021-19-07 16:24:58 with cpu running @ 2324mhz)
+
+V
+
+
+
+V
+
+found program exit 
+(at 2021-19-07 16:24:58 with cpu running @ 2395mhz)
+
+V
+
+
+
+V
+
+found program help 
+(at 2021-19-07 16:24:58 with cpu running @ 2395mhz)
+
+V
+
+
+
+V
+
+found program history 
+(at 2021-19-07 16:24:58 with cpu running @ 2395mhz)
+
+V
+
+
+
+V
+
+found user defaultuser 
+(at 2021-19-07 16:24:58 with cpu running @ 2395mhz)
+
+V
+
+
+
+V
+
+found program ILM 
+(at 2021-19-07 16:32:58 with cpu running @ 3039mhz)
+
+V
+
+
+
+V
+
+found program IPM 
+(at 2021-19-07 16:32:58 with cpu running @ 3039mhz)
+
+V
+
+
+
+V
+
+found program ISH 
+(at 2021-19-07 16:32:58 with cpu running @ 3039mhz)
+
+V
+
+
+
+V
+
+found program clear 
+(at 2021-19-07 16:32:58 with cpu running @ 3039mhz)
+
+V
+
+
+
+V
+
+found program exit 
+(at 2021-19-07 16:32:58 with cpu running @ 3039mhz)
+
+V
+
+
+
+V
+
+found program help 
+(at 2021-19-07 16:32:58 with cpu running @ 3675mhz)
+
+V
+
+
+
+V
+
+found program history 
+(at 2021-19-07 16:32:58 with cpu running @ 3675mhz)
+
+V
+
+
+
+V
+
+found user defaultuser 
+(at 2021-19-07 16:32:58 with cpu running @ 3675mhz)
+
+V
+
+
+
+V
+
+found program ILM 
+(at 2021-19-07 16:33:39 with cpu running @ 2853mhz)
+
+V
+
+
+
+V
+
+found program IPM 
+(at 2021-19-07 16:33:39 with cpu running @ 2853mhz)
+
+V
+
+
+
+V
+
+found program ISH 
+(at 2021-19-07 16:33:39 with cpu running @ 2853mhz)
+
+V
+
+
+
+V
+
+found program clear 
+(at 2021-19-07 16:33:39 with cpu running @ 2853mhz)
+
+V
+
+
+
+V
+
+found program exit 
+(at 2021-19-07 16:33:39 with cpu running @ 3391mhz)
+
+V
+
+
+
+V
+
+found program help 
+(at 2021-19-07 16:33:39 with cpu running @ 3391mhz)
+
+V
+
+
+
+V
+
+found program history 
+(at 2021-19-07 16:33:39 with cpu running @ 3391mhz)
+
+V
+
+
+
+V
+
+found user defaultuser 
+(at 2021-19-07 16:33:39 with cpu running @ 3391mhz)
+
+V
+
+
+
+V
+
+found program ILM 
+(at 2021-19-07 16:34:20 with cpu running @ 2574mhz)
+
+V
+
+
+
+V
+
+found program IPM 
+(at 2021-19-07 16:34:20 with cpu running @ 2574mhz)
+
+V
+
+
+
+V
+
+found program ISH 
+(at 2021-19-07 16:34:20 with cpu running @ 2574mhz)
+
+V
+
+
+
+V
+
+found program clear 
+(at 2021-19-07 16:34:20 with cpu running @ 2574mhz)
+
+V
+
+
+
+V
+
+found program exit 
+(at 2021-19-07 16:34:20 with cpu running @ 3657mhz)
+
+V
+
+
+
+V
+
+found program help 
+(at 2021-19-07 16:34:20 with cpu running @ 3657mhz)
+
+V
+
+
+
+V
+
+found program history 
+(at 2021-19-07 16:34:20 with cpu running @ 3657mhz)
+
+V
+
+
+
+V
+
+found user defaultuser 
+(at 2021-19-07 16:34:20 with cpu running @ 3657mhz)
+
+V
+
+
+
+V
+
+found program ILM 
+(at 2021-19-07 16:34:55 with cpu running @ 2823mhz)
+
+V
+
+
+
+V
+
+found program IPM 
+(at 2021-19-07 16:34:55 with cpu running @ 2823mhz)
+
+V
+
+
+
+V
+
+found program ISH 
+(at 2021-19-07 16:34:55 with cpu running @ 2823mhz)
+
+V
+
+
+
+V
+
+found program clear 
+(at 2021-19-07 16:34:55 with cpu running @ 2823mhz)
+
+V
+
+
+
+V
+
+found program exit 
+(at 2021-19-07 16:34:55 with cpu running @ 2823mhz)
+
+V
+
+
+
+V
+
+found program help 
+(at 2021-19-07 16:34:55 with cpu running @ 3761mhz)
+
+V
+
+
+
+V
+
+found program history 
+(at 2021-19-07 16:34:55 with cpu running @ 3761mhz)
+
+V
+
+
+
+V
+
+found user defaultuser 
+(at 2021-19-07 16:34:55 with cpu running @ 3761mhz)
+
+V
+
+
+
+V
+
+found program ILM 
+(at 2021-19-07 16:38:41 with cpu running @ 2813mhz)
+
+V
+
+
+
+V
+
+found program ISH 
+(at 2021-19-07 16:38:41 with cpu running @ 2813mhz)
+
+V
+
+
+
+V
+
+found program IPM 
+(at 2021-19-07 16:38:41 with cpu running @ 2813mhz)
+
+V
+
+
+
+V
+
+found program clear 
+(at 2021-19-07 16:38:41 with cpu running @ 2813mhz)
+
+V
+
+
+
+V
+
+found program exit 
+(at 2021-19-07 16:38:41 with cpu running @ 3734mhz)
+
+V
+
+
+
+V
+
+found program help 
+(at 2021-19-07 16:38:41 with cpu running @ 3734mhz)
+
+V
+
+
+
+V
+
+found program history 
+(at 2021-19-07 16:38:41 with cpu running @ 3734mhz)
+
+V
+
+
+
+V
+
+found user defaultuser 
+(at 2021-19-07 16:38:41 with cpu running @ 3734mhz)
+
+V
+
+
+
+V
+
+found program ILM 
+(at 2021-19-07 16:46:28 with cpu running @ 2414mhz)
+
+V
+
+
+
+V
+
+found program IPM 
+(at 2021-19-07 16:46:28 with cpu running @ 2414mhz)
+
+V
+
+
+
+V
+
+found program ISH 
+(at 2021-19-07 16:46:28 with cpu running @ 2414mhz)
+
+V
+
+
+
+V
+
+found program clear 
+(at 2021-19-07 16:46:28 with cpu running @ 2414mhz)
+
+V
+
+
+
+V
+
+found program exit 
+(at 2021-19-07 16:46:28 with cpu running @ 3778mhz)
+
+V
+
+
+
+V
+
+found program help 
+(at 2021-19-07 16:46:28 with cpu running @ 3778mhz)
+
+V
+
+
+
+V
+
+found program history 
+(at 2021-19-07 16:46:28 with cpu running @ 3778mhz)
+
+V
+
+
+
+V
+
+found user defaultuser 
+(at 2021-19-07 16:46:28 with cpu running @ 3778mhz)
+
+V
+
+
+
+V
+
+found program ILM 
+(at 2021-19-07 16:53:14 with cpu running @ 2285mhz)
+
+V
+
+
+
+V
+
+found program IPM 
+(at 2021-19-07 16:53:14 with cpu running @ 2285mhz)
+
+V
+
+
+
+V
+
+found program ISH 
+(at 2021-19-07 16:53:14 with cpu running @ 2285mhz)
+
+V
+
+
+
+V
+
+found program clear 
+(at 2021-19-07 16:53:14 with cpu running @ 2285mhz)
+
+V
+
+
+
+V
+
+found program exit 
+(at 2021-19-07 16:53:14 with cpu running @ 2285mhz)
+
+V
+
+
+
+V
+
+found program help 
+(at 2021-19-07 16:53:14 with cpu running @ 2285mhz)
+
+V
+
+
+
+V
+
+found program history 
+(at 2021-19-07 16:53:14 with cpu running @ 3613mhz)
+
+V
+
+
+
+V
+
+found user defaultuser 
+(at 2021-19-07 16:53:14 with cpu running @ 3613mhz)
+
+V
+
+
+
+V
+
+found program ILM 
+(at 2021-19-07 16:53:26 with cpu running @ 3429mhz)
+
+V
+
+
+
+V
+
+found program IPM 
+(at 2021-19-07 16:53:26 with cpu running @ 3429mhz)
+
+V
+
+
+
+V
+
+found program ISH 
+(at 2021-19-07 16:53:26 with cpu running @ 3429mhz)
+
+V
+
+
+
+V
+
+found program clear 
+(at 2021-19-07 16:53:26 with cpu running @ 3707mhz)
+
+V
+
+
+
+V
+
+found program exit 
+(at 2021-19-07 16:53:26 with cpu running @ 3707mhz)
+
+V
+
+
+
+V
+
+found program help 
+(at 2021-19-07 16:53:26 with cpu running @ 3707mhz)
+
+V
+
+
+
+V
+
+found program history 
+(at 2021-19-07 16:53:26 with cpu running @ 3707mhz)
+
+V
+
+
+
+V
+
+found user defaultuser 
+(at 2021-19-07 16:53:26 with cpu running @ 3707mhz)
+
+V
+
+
+
+V
+
+found program ILM 
+(at 2021-19-07 16:54:30 with cpu running @ 3450mhz)
+
+V
+
+
+
+V
+
+found program IPM 
+(at 2021-19-07 16:54:30 with cpu running @ 3450mhz)
+
+V
+
+
+
+V
+
+found program ISH 
+(at 2021-19-07 16:54:30 with cpu running @ 3450mhz)
+
+V
+
+
+
+V
+
+found program clear 
+(at 2021-19-07 16:54:30 with cpu running @ 3450mhz)
+
+V
+
+
+
+V
+
+found program exit 
+(at 2021-19-07 16:54:30 with cpu running @ 3450mhz)
+
+V
+
+
+
+V
+
+found program help 
+(at 2021-19-07 16:54:30 with cpu running @ 3660mhz)
+
+V
+
+
+
+V
+
+found program history 
+(at 2021-19-07 16:54:30 with cpu running @ 3660mhz)
+
+V
+
+
+
+V
+
+found user defaultuser 
+(at 2021-19-07 16:54:30 with cpu running @ 3660mhz)
+
+V
+
+
+
+V
+
+found program ILM 
+(at 2021-19-07 16:56:24 with cpu running @ 2457mhz)
+
+V
+
+
+
+V
+
+found program IPM 
+(at 2021-19-07 16:56:24 with cpu running @ 2457mhz)
+
+V
+
+
+
+V
+
+found program ISH 
+(at 2021-19-07 16:56:24 with cpu running @ 2457mhz)
+
+V
+
+
+
+V
+
+found program clear 
+(at 2021-19-07 16:56:24 with cpu running @ 2457mhz)
+
+V
+
+
+
+V
+
+found program exit 
+(at 2021-19-07 16:56:24 with cpu running @ 2457mhz)
+
+V
+
+
+
+V
+
+found program help 
+(at 2021-19-07 16:56:24 with cpu running @ 3774mhz)
+
+V
+
+
+
+V
+
+found user defaultuser 
+(at 2021-19-07 16:56:24 with cpu running @ 3774mhz)
+
+V
+

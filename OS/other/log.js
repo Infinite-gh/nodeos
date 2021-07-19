@@ -2,38 +2,16 @@ module.exports = (loggedMsg, dir, file) =>{
 
     // stuff
 
+    const setupPs1 = require('./setupps1ISH')
     const fs = require('fs')
-    let date_ob = new Date();
+    const config = require('../var/log.json')
 
-    let date = ("0" + date_ob.getDate()).slice(-2);
-
-        // current month
-        
-        let month = ("0" + (date_ob.getMonth() + 1)).slice(-2);
-        
-        // current year
-
-        let year = date_ob.getFullYear();
-        
-        // current hours
-
-        let hours = date_ob.getHours();
-        
-        // current minutes
-        let minutes = date_ob.getMinutes();
-        
-        // current seconds
-
-        let seconds = date_ob.getSeconds();
-
-        const stuff = 
+    const stuff = 
 `
-V
-
+${config.start}
 ${loggedMsg} 
-(at ${year + "-" + date + "-" + month + " " + hours + ":" + minutes + ":" + seconds})
-
-V
+${setupPs1(config.footer)}
+${config.end}
 `
     fs.mkdir(`./OS/logs/${dir}`, (err) =>{
         

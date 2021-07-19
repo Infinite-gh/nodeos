@@ -2,11 +2,12 @@ module.exports = {
     name: "ISH",
     desc: "infinite terminal shell",
     usage: "ISH",
-    run: (programs, users, user, rl) =>{
+    run: (users, user, rl) =>{
 
+        const fs = require('fs')
         const setupPS1 = require('../other/setupps1ISH')
 
-        // set the PS1
+        // load config
 
         const config = require('../var/ISHconf.json')
 
@@ -24,6 +25,19 @@ module.exports = {
         
         rl.on("line", function(line){
 
+            // load programs
+
+            let programs = new Map()
+
+            let cmds = fs.readdirSync(`./OS${config.PATH}`).filter(file => file.endsWith(`.js`));
+            for(const file of cmds){
+                const cmd = require(`..${config.PATH}/${file}`);
+                    
+                programs.set(cmd.name, cmd)
+            }
+
+            // set up the ps1 again
+
             rl.setPrompt(setupPS1(config.PS1, user.name, users));
 
             // history logging
@@ -40,7 +54,7 @@ module.exports = {
 
             if(command){
                 if(programs.has(args[0])){
-                    programs.get(`${args[0]}`).run(args, line, user, programs)
+                    programs.get(`${args[0]}`).run(args, line, user, programs, rl)
                 }else{
                     log(`called out unexistent command ${args[0]}`)
                 }
@@ -56,6 +70,7 @@ module.exports = {
 
             // a little thing
 
+            log(`ended a session.`, 'sessionmanager', 'sessions')
             process.exit(0);
         })
     }

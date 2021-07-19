@@ -159,3 +159,81 @@ entered IPM update into the cmd.
 (at 2021-14-07 19:47:23)
 
 V
+
+V
+
+entered clear into the cmd. 
+(at 2021-14-07 20:38:30)
+
+V
+
+V
+
+entered help into the cmd. 
+(at 2021-14-07 20:38:31)
+
+V
+
+V
+
+entered ILM into the cmd. 
+(at 2021-14-07 20:38:42)
+
+V
+
+V
+
+entered clear into the cmd. 
+(at 2021-14-07 20:39:17)
+
+V
+
+V
+
+entered heelp into the cmd. 
+(at 2021-14-07 20:39:18)
+
+V
+
+V
+
+entered help into the cmd. 
+(at 2021-14-07 20:39:20)
+
+V
+
+
+V
+
+entered clear into the cmd. 
+(at 2021-14-07 20:45:42 with cpu clocked @ 3729mhz)
+
+V
+
+
+
+V
+
+entered help into the cmd. 
+(at 2021-14-07 20:45:44 with cpu clocked @ 3742mhz)
+
+V
+
+
+
+V
+
+entered clear into the cmd. 
+(at 2021-14-07 20:47:21 with cpu running @ 3686mhz)
+
+V
+
+
+
+V
+
+entered help into the cmd. 
+(at 2021-14-07 20:47:22 with cpu running @ 3567mhz)
+
+V
+

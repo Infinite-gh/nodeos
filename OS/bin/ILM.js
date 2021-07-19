@@ -31,7 +31,7 @@ module.exports = {
             rl.question('please enter the password: ', (answer2) => {
                 var pswd = users.get(answer1).password
                 if(pswd === answer2){
-                    programs.get(`ISH`).run(programs, users, users.get(answer1), rl)
+                    programs.get(`ISH`).run(users, users.get(answer1), rl)
                 }
             });
         });
