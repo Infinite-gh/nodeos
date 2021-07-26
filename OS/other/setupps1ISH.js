@@ -46,9 +46,15 @@ module.exports = (ps1, username) =>{
     // current seconds
 
     let seconds = date_ob.getSeconds();
-
-    return ps1
-    .replace(/'D'/g, `${year + "-" + date + "-" + month + " " + hours + ":" + minutes + ":" + seconds}`)
+    
+    const finishedproduct = ps1
+    .replace(/'FD'/g, `${year + "-" + date + "-" + month + " " + hours + ":" + minutes + ":" + seconds}`)
+    .replace(/'DY'/g, year)
+    .replace(/'DD'/g, date)
+    .replace(/'DM'/g, month)
+    .replace(/'DH'/g, hours)
+    .replace(/'DM'/g, minutes)
+    .replace(/'DS'/g, seconds)
     .replace(/'CT/g, ``)
     .replace(/CT'/g, ``)
     .replace(/'N'/g, `\n`)
@@ -60,4 +66,6 @@ module.exports = (ps1, username) =>{
     .replace(/'CPUCLOCK'/g, cpuclock)
     .replace(/'U'/g, username)
     .replace(/'HN'/g, hostname)
+
+    return finishedproduct 
 }

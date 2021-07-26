@@ -17,40 +17,69 @@ module.exports = async (args) =>{
         }
     }
 
-    const installSequence = async (args) =>{
+    // installing the required files
+
+    const downloadsequence = async (args) =>{
+
         shell.exec(`git clone ${DJ(repo, args[2])} ./OS/temp/IPM`)
-        shell.exec(`mv ./OS/temp/IPM/dependencies.txt ./OS/temp/.`)
-        fs.readFile('./OS/temp/dependencies.txt', 'utf8', (err, data) =>{
+        await shell.exec(`mv ./OS/temp/IPM/dependencies.txt ./OS/temp/.`)
+        await fs.readFile('./OS/temp/dependencies.txt', 'utf8', (err, data) =>{
             if(err){
                 console.log(`an error occured while loading dependencies for this package.`)
             }else{
                 shell.exec(`npm i ${data}`)
             }
         })
+
+        await log(`downloaded the package and installed required dependencies.`, `IPM`, `install`)
+
+    }
+
+    // after downloading the required files
+
+    const preparationsequence = async (args) =>{
+
         shell.exec(`cp ./OS/temp/IPM/. ./OS/. -r`)
-        shell.exec(`rm -rf ./OS/temp/IPM`)
-        shell.exec(`rm -rf ./OS/temp/dependencies.txt`)
+        await shell.exec(`rm -rf ./OS/temp/IPM`)
+        await shell.exec(`rm -rf ./OS/temp/dependencies.txt`)
 
-        await fs.appendFile('./OS/var/IPM/installed.txt', args[2], (err) =>{
+        await log(`installed package ${args[2]}`, `IPM`, `install`)
 
+        await fs.appendFile('./OS/var/IPM/installed.txt', `${args[2]} `, (err) =>{
+            if(err){
+                console.log(`an error occured`)
+            }
         })
+    }
+
+    const installSequence = async (args) =>{
+
+        downloadsequence(args)
+        preparationsequence(args)
+
+        log(`installing finished`, `IPM`, `install`)
     }
 
     const theRepo = DJ(repo, args[2])
 
-    if(theRepo === `404`){
-        log(`can't find ${args[2]} in the repository.`, 'IPM', 'pkgmanager')
-    }else{
+    switch(theRepo){
 
-        fs.readFile('./OS/var/IPM/installed.txt', 'utf8', (err, data) =>{
-            if(err){
-                console.log(`there was an error reading list of installed packages. maybe create /var/IPM/installed.txt?`)
-            }
-            if(data.includes(args[2])){
-                console.log(`package "${args[2]}" is already installed.`)
-            }else{
-                installSequence(args)
-            }
-        })
+        case "404":
+            log(`can't find ${args[2]} in the repository.`, 'IPM', 'install')
+        break;
+
+        default:
+            fs.readFile('./OS/var/IPM/installed.txt', 'utf8', (err, data) =>{
+                if(err){
+                    console.log(`there was an error reading list of installed packages. maybe create /var/IPM/installed.txt?`)
+                }
+                if(data.includes(args[2])){
+                    console.log(`package "${args[2]}" is already installed.`)
+                }else{
+                    installSequence(args)
+                }
+            })
+        break;
+
     }
 }

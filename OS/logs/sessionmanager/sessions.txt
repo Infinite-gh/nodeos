@@ -1,1 +1,763 @@
 a
+
+V
+
+started a session. 
+(at 2021-19-07 17:5:17 with cpu running @ 2543mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: [object Object]
+PS1:[2021-19-07 17:6:43]
+[undefined @ amogus]
+->> 
+(at 2021-19-07 17:6:43 with cpu running @ 1836mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-19-07 17:6:57]
+[undefined @ amogus]
+->> 
+(at 2021-19-07 17:6:57 with cpu running @ 2394mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-19-07 17:17:8]
+[undefined @ amogus]
+->> 
+(at 2021-19-07 17:17:8 with cpu running @ 2890mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-19-07 18:18:59]
+[undefined @ amogus]
+->> 
+(at 2021-19-07 18:18:59 with cpu running @ 2013mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-23-07 19:42:7]
+[undefined @ amogus]
+->> 
+(at 2021-23-07 19:42:7 with cpu running @ 2639mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-23-07 19:42:59]
+[undefined @ amogus]
+->> 
+(at 2021-23-07 19:42:59 with cpu running @ 2634mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-23-07 19:43:40]
+[undefined @ amogus]
+->> 
+(at 2021-23-07 19:43:40 with cpu running @ 1665mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-23-07 19:45:18]
+[undefined @ amogus]
+->> 
+(at 2021-23-07 19:45:18 with cpu running @ 2623mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-23-07 22:12:48]
+[undefined @ amogus]
+->> 
+(at 2021-23-07 22:12:48 with cpu running @ 1902mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-23-07 22:15:46]
+[undefined @ amogus]
+->> 
+(at 2021-23-07 22:15:46 with cpu running @ 2860mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-23-07 22:18:24]
+[undefined @ amogus]
+->> 
+(at 2021-23-07 22:18:24 with cpu running @ 1596mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-23-07 22:25:44]
+[undefined @ amogus]
+->> 
+(at 2021-23-07 22:25:44 with cpu running @ 1596mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-24-07 8:38:9]
+[undefined @ amogus]
+->> 
+(at 2021-24-07 8:38:9 with cpu running @ 2052mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-24-07 8:41:31]
+[undefined @ amogus]
+->> 
+(at 2021-24-07 8:41:31 with cpu running @ 1600mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-24-07 8:42:37]
+[undefined @ amogus]
+->> 
+(at 2021-24-07 8:42:37 with cpu running @ 2556mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-24-07 8:46:25]
+[undefined @ amogus]
+->> 
+(at 2021-24-07 8:46:25 with cpu running @ 1973mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-24-07 8:55:46]
+[undefined @ amogus]
+->> 
+(at 2021-24-07 8:55:46 with cpu running @ 2569mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-24-07 8:56:55]
+[undefined @ amogus]
+->> 
+(at 2021-24-07 8:56:55 with cpu running @ 2620mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-24-07 8:57:46]
+[undefined @ amogus]
+->> 
+(at 2021-24-07 8:57:46 with cpu running @ 2208mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-24-07 8:59:34]
+[undefined @ amogus]
+->> 
+(at 2021-24-07 8:59:34 with cpu running @ 1669mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-24-07 9:0:11]
+[undefined @ amogus]
+->> 
+(at 2021-24-07 9:0:11 with cpu running @ 2205mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-24-07 10:45:7]
+[undefined @ amogus]
+->> 
+(at 2021-24-07 10:45:7 with cpu running @ 1609mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-24-07 10:46:3]
+[undefined @ amogus]
+->> 
+(at 2021-24-07 10:46:3 with cpu running @ 1805mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-24-07 10:46:23]
+[undefined @ amogus]
+->> 
+(at 2021-24-07 10:46:23 with cpu running @ 1596mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-24-07 10:47:34]
+[undefined @ amogus]
+->> 
+(at 2021-24-07 10:47:34 with cpu running @ 1596mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-24-07 10:48:2]
+[undefined @ amogus]
+->> 
+(at 2021-24-07 10:48:2 with cpu running @ 2659mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-24-07 10:48:56]
+[undefined @ amogus]
+->> 
+(at 2021-24-07 10:48:56 with cpu running @ 1775mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-24-07 10:49:26]
+[undefined @ amogus]
+->> 
+(at 2021-24-07 10:49:26 with cpu running @ 2438mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-24-07 10:49:41]
+[undefined @ amogus]
+->> 
+(at 2021-24-07 10:49:41 with cpu running @ 2714mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-24-07 10:50:27]
+[undefined @ amogus]
+->> 
+(at 2021-24-07 10:50:27 with cpu running @ 1596mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-24-07 10:56:4]
+[undefined @ amogus]
+->> 
+(at 'D' with cpu running @ 1655mhz)
+
+V
+
+
+
+'V'
+
+started a session. 
+user: defaultuser
+PS1:[2021-24-07 10:56:51]
+[undefined @ amogus]
+->> 
+(at 2021-24-07 10:56:51 with cpu running @ 2149mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-24-07 10:57:23]
+[undefined @ amogus]
+->> 
+(at 2021-24-07 10:57:23 with cpu running @ 1596mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-24-07 12:12:13]
+[undefined @ amogus]
+->> 
+(at 2021-24-07 12:12:13 with cpu running @ 3818mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-24-07 12:16:1]
+[undefined @ amogus]
+->> 
+(at 2021-24-07 12:16:1 with cpu running @ 3835mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-24-07 13:4:0]
+[undefined @ amogus]
+->> 
+(at 2021-24-07 13:4:0 with cpu running @ 3794mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-24-07 13:11:30]
+[undefined @ amogus]
+->> 
+(at 2021-24-07 13:11:30 with cpu running @ 3884mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-24-07 13:12:2]
+[undefined @ amogus]
+->> 
+(at 2021-24-07 13:12:2 with cpu running @ 3791mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-24-07 13:12:28]
+[undefined @ amogus]
+->> 
+(at 2021-24-07 13:12:28 with cpu running @ 3748mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-24-07 13:13:17]
+[undefined @ amogus]
+->> 
+(at 2021-24-07 13:13:17 with cpu running @ 3731mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-24-07 13:23:51]
+[undefined @ amogus]
+->> 
+(at 2021-24-07 13:23:51 with cpu running @ 3708mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-24-07 13:24:14]
+[undefined @ amogus]
+->> 
+(at 2021-24-07 13:24:14 with cpu running @ 3782mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-24-07 13:24:31]
+[undefined @ amogus]
+->> 
+(at 2021-24-07 13:24:31 with cpu running @ 3691mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-24-07 13:25:2]
+[undefined @ amogus]
+->> 
+(at 2021-24-07 13:25:2 with cpu running @ 3843mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-24-07 13:25:36]
+[undefined @ amogus]
+->> 
+(at 2021-24-07 13:25:36 with cpu running @ 3761mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-24-07 13:25:59]
+[undefined @ amogus]
+->> 
+(at 2021-24-07 13:25:59 with cpu running @ 3825mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-24-07 13:26:26]
+[undefined @ amogus]
+->> 
+(at 2021-24-07 13:26:26 with cpu running @ 3777mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-24-07 13:27:23]
+[undefined @ amogus]
+->> 
+(at 2021-24-07 13:27:23 with cpu running @ 3780mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-24-07 13:27:54]
+[undefined @ amogus]
+->> 
+(at 2021-24-07 13:27:54 with cpu running @ 3733mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-24-07 13:28:15]
+[undefined @ amogus]
+->> 
+(at 2021-24-07 13:28:15 with cpu running @ 3766mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-24-07 15:41:37]
+[undefined @ amogus]
+->> 
+(at 2021-24-07 15:41:37 with cpu running @ 3789mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-24-07 15:41:53]
+[undefined @ amogus]
+->> 
+(at 2021-24-07 15:41:53 with cpu running @ 3605mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-24-07 18:0:21]
+[undefined @ amogus]
+->> 
+(at 2021-24-07 18:0:21 with cpu running @ 3702mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-26-07 8:10:16]
+[undefined @ amogus]
+->> 
+(at 2021-26-07 8:10:16 with cpu running @ 3656mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-26-07 10:11:31]
+[undefined @ amogus]
+->> 
+(at 2021-26-07 10:11:31 with cpu running @ 3430mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-26-07 10:12:16]
+[undefined @ amogus]
+->> 
+(at 2021-26-07 10:12:16 with cpu running @ 3150mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-26-07 10:16:22]
+[undefined @ amogus]
+->> 
+(at 2021-26-07 10:16:22 with cpu running @ 3346mhz)
+
+V
+
+
+
+V
+
+started a session. 
+user: defaultuser
+PS1:[2021-26-07 10:19:18]
+[undefined @ amogus]
+->> 
+(at 2021-26-07 10:19:18 with cpu running @ 3396mhz)
+
+V
+

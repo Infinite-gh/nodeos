@@ -1,6 +1,7 @@
 module.exports = {
     name: "ISH",
     desc: "infinite terminal shell",
+    version: "beta 0.0.1",
     usage: "ISH",
     run: (users, user, rl) =>{
 
@@ -14,6 +15,8 @@ module.exports = {
         rl.setPrompt(setupPS1(config.PS1, user.name));
 
         const log = require('../other/log.js')
+
+        log(`started a session. \nuser: ${user.name}\nPS1:${config.PS1}`, 'sessionmanager', 'sessions')
         
         // a little "hello"
 
@@ -23,7 +26,7 @@ module.exports = {
 
         // actual cmdline
         
-        rl.on("line", function(line){
+        rl.on("line", async function(line){
 
             // load programs
 
@@ -50,21 +53,21 @@ module.exports = {
 
             const command = programs.get(args[0])
 
-            // if i didn't put this here, bot would crash on unexistent commands
+            // if i didn't put this here, the nodeos would crash on unexistent commands
 
-            if(command){
+            if(!args[0]){
+                console.log(`please input something into the command line. \n`)
+            }else{
                 if(programs.has(args[0])){
                     programs.get(`${args[0]}`).run(args, line, user, programs, rl)
                 }else{
-                    log(`called out unexistent command ${args[0]}`)
+                    log(`called out unexistent command ${args[0]}`, `ISH`, `cmdhandler`)
                 }
-            }else{
-
             }
       
             // make it work 
 
-            rl.prompt();
+            await rl.prompt();
 
         }).on("close", function() {
 

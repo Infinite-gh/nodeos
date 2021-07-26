@@ -8,10 +8,10 @@ module.exports = (loggedMsg, dir, file) =>{
 
     const stuff = 
 `
-${config.start}
-${loggedMsg} 
+${setupPs1(config.start)}
+${setupPs1(loggedMsg)} 
 ${setupPs1(config.footer)}
-${config.end}
+${setupPs1(config.end)}
 `
     fs.mkdir(`./OS/logs/${dir}`, (err) =>{
         

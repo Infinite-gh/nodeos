@@ -1,0 +1,126 @@
+
+
+V
+
+installed package amogus 
+(at 2021-24-07 8:38:22 with cpu running @ 3313mhz)
+
+V
+
+
+
+V
+
+installing finished 
+(at 2021-24-07 8:38:22 with cpu running @ 3313mhz)
+
+V
+
+
+
+V
+
+downloaded the package and installed required dependencies. 
+(at 2021-24-07 8:41:36 with cpu running @ 3702mhz)
+
+V
+
+
+
+V
+
+installed package amogus 
+(at 2021-24-07 8:41:36 with cpu running @ 3399mhz)
+
+V
+
+
+
+V
+
+installing finished 
+(at 2021-24-07 8:41:36 with cpu running @ 3399mhz)
+
+V
+
+
+
+V
+
+downloaded the package and installed required dependencies. 
+(at 2021-24-07 8:42:42 with cpu running @ 3126mhz)
+
+V
+
+
+
+V
+
+installed package something 
+(at 2021-24-07 8:42:42 with cpu running @ 3202mhz)
+
+V
+
+
+
+V
+
+installing finished 
+(at 2021-24-07 8:42:42 with cpu running @ 3202mhz)
+
+V
+
+
+
+V
+
+downloaded the package and installed required dependencies. 
+(at 2021-24-07 8:46:29 with cpu running @ 3535mhz)
+
+V
+
+
+
+V
+
+installed package amogus 
+(at 2021-24-07 8:46:29 with cpu running @ 3212mhz)
+
+V
+
+
+
+V
+
+installing finished 
+(at 2021-24-07 8:46:29 with cpu running @ 3212mhz)
+
+V
+
+
+
+V
+
+installing finished 
+(at 2021-24-07 13:28:32 with cpu running @ 3766mhz)
+
+V
+
+
+
+V
+
+downloaded the package and installed required dependencies. 
+(at 2021-24-07 13:28:32 with cpu running @ 3775mhz)
+
+V
+
+
+
+V
+
+installed package history 
+(at 2021-24-07 13:28:32 with cpu running @ 3775mhz)
+
+V
+

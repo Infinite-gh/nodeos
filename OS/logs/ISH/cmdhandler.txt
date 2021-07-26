@@ -237,3 +237,21 @@ entered help into the cmd.
 
 V
 
+
+
+V
+
+called out unexistent command amogus 
+(at 2021-24-07 8:58:3 with cpu running @ 2590mhz)
+
+V
+
+
+
+V
+
+called out unexistent command IPm 
+(at 2021-24-07 13:26:1 with cpu running @ 3840mhz)
+
+V
+
