@@ -6,6 +6,55 @@ module.exports = async () =>{
     let repo = require('../../var/IPM/packages.json')
     const mainConfig = require('../../var/IPM/mainconfig.json')
 
+    const findInJson = require('../findinjson')
+    const log = require('../log')
+
+    // base class
+
+    class install{
+        constructor(pkg, repo){
+            this.packageToInstall = pkg 
+            this.repo = repo
+        }
+        async download(){
+            shell.exec(`git clone ${findInJson(this.repo, this.packageToInstall)} ./OS/temp/IPM`)
+
+            await log(`downloaded the package ${this.packageToInstall}.`, `IPM`, `update`)
+        }
+    }
+
+    // the one for installing packages
+
+    class installPackage extends install{
+        async setup(){
+
+            shell.exec(`mv ./OS/temp/IPM/dependencies.txt ./OS/temp/.`)
+            await fs.readFile('./OS/temp/dependencies.txt', 'utf8', (err, data) =>{
+                if(err){
+                    console.log(`an error occured while loading dependencies for this package.`)
+                }else{
+                    shell.exec(`npm i ${data}`)
+                }
+            })
+            await shell.exec(`cp ./OS/temp/IPM/. ./OS/. -r`)
+            await shell.exec(`rm -rf ./OS/temp/IPM`)
+            await shell.exec(`rm -rf ./OS/temp/dependencies.txt`)
+
+            await log(`updated package ${this.packageToInstall}`, `IPM`, `update`)
+        }
+    }
+
+    // the one for upgrading the os
+
+    class upgradeOs extends install{
+        async setup(){
+            shell.exec(`cp ./OS/temp/IPM/OS. ./OS/. -r`)
+            await shell.exec(`rm -rf ./OS/temp/IPM`)
+
+            await log(`updated the OS`, `IPM`, `update`)
+        }
+    }
+
     // check the installed packages and update them
 
     fs.readFile('./OS/var/IPM/installed.txt', (err, data) =>{
@@ -18,105 +67,29 @@ module.exports = async () =>{
             const b = a.split(" ")
             
             b.forEach(package =>{
-                installSequence(package)
+                updatepackages(package)
             })
 
             if(mainConfig.OSreinstall === true){
-                modifiedfullinstall(`update`)
+                updateOS()
             }else{
                 console.log(`updating the full OS is disabled.`)
             }
         }
     })
 
-    const log = require('../log')
+    // install scripts
 
-    // the name is self-descriptive
-
-    const findInJson = (json, value) =>{
-        const jsons = JSON.stringify(json)
-        var objectValue = JSON.parse(jsons);
-        if(!objectValue){
-            return `404`
-        }else{
-            return objectValue[value]
-        }
+    const updateOS = async () =>{
+        const update = new upgradeOs(`update`, repo)
+        update.download()
+        await update.setup()
     }
 
-    // installing the required files
-
-    const downloadsequence = async (package) =>{
-
-        shell.exec(`git clone ${findInJson(repo, package)} ./OS/temp/IPM`)
-        await shell.exec(`mv ./OS/temp/IPM/dependencies.txt ./OS/temp/.`)
-        await fs.readFile('./OS/temp/dependencies.txt', 'utf8', (err, data) =>{
-            if(err){
-                console.log(`an error occured while loading dependencies for this package.`)
-            }else{
-                shell.exec(`npm i ${data}`)
-            }
-        })
-
-        await log(`downloaded the package ${package} and installed required dependencies.`, `IPM`, `update`)
-
-    }
-
-    // modified for just the OS reinstall
-
-    const modifiedDownload = async (package) =>{
-
-        shell.exec(`git clone ${findInJson(repo, package)} ./OS/temp/IPM`)
-        await fs.readFile('./OS/temp/dependencies.txt', 'utf8', (err, data) =>{
-            if(err){
-                console.log(`an error occured while loading dependencies for this package.`)
-            }else{
-                shell.exec(`npm i ${data}`)
-            }
-        })
-
-        await log(`downloaded the package ${package} and installed required dependencies.`, `IPM`, `update`)
-
-    }
-
-    // after downloading the required files
-
-    const preparationsequence = async (package) =>{
-
-        shell.exec(`cp ./OS/temp/IPM/. ./OS/. -r`)
-        await shell.exec(`rm -rf ./OS/temp/IPM`)
-        await shell.exec(`rm -rf ./OS/temp/dependencies.txt`)
-
-        await log(`updated package ${package}`, `IPM`, `update`)
-    }
-
-    // modified for just the OS reinstall
-
-    const modifiedPrep = async (package) =>{
-
-        shell.exec(`cp ./OS/temp/IPM/OS. ./OS/. -r`)
-        await shell.exec(`rm -rf ./OS/temp/IPM`)
-
-        await log(`updated package ${package}`, `IPM`, `update`)
-    }
-
-    // full sequence
-
-    const installSequence = async (package) =>{
-
-        downloadsequence(package)
-        preparationsequence(package)
-
-        log(`installing finished`, `IPM`, `update`)
-    }
-    
-    // modified for just the OS reinstall
-
-    const modifiedfullinstall = async (package) =>{
-
-        modifiedDownload(package)
-        await modifiedPrep(package)
-
-        await log(`installing finished`, `IPM`, `update`)
+    const updatepackages = async (package) =>{
+        const thefunctions = new installPackage(package, repo)
+        thefunctions.download()
+        await thefunctions.setup()
     }
 
     await log(`updated all the packages`, `IPM`, `update`)
