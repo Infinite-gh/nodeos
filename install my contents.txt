@@ -1,5 +1,3 @@
-(npm) shelljs
-(npm) readline
-nodejs (newest version)
-npm
-git (the command line version (for IPM))
+shelljs
+readline
+fs-extra

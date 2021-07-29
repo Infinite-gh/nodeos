@@ -3,7 +3,7 @@ const upgrade = require('../other/IPM/upgrade')
 module.exports = {
     name: "IPM",
     desc: "infinite package manager prototype",
-    version: "beta 0.0.2",
+    version: "beta 0.0.3",
     usage: "IPM [refresh/install/help]",
     run: async (args, line, user, programs) =>{
 

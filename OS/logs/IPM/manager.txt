@@ -124,3 +124,219 @@ V
 
 V
 
+
+
+V
+
+(IPM) used u 
+(at 2021-26-07 11:21:26 with cpu running @ 3839mhz)
+
+V
+
+
+
+V
+
+(IPM) used i 
+(at 2021-26-07 11:31:34 with cpu running @ 3810mhz)
+
+V
+
+
+
+V
+
+(IPM) used i 
+(at 2021-26-07 11:33:23 with cpu running @ 3788mhz)
+
+V
+
+
+
+V
+
+(IPM) used i 
+(at 2021-26-07 11:33:55 with cpu running @ 3471mhz)
+
+V
+
+
+
+V
+
+(IPM) used i 
+(at 2021-26-07 11:34:4 with cpu running @ 3804mhz)
+
+V
+
+
+
+V
+
+(IPM) used i 
+(at 2021-26-07 11:36:3 with cpu running @ 3782mhz)
+
+V
+
+
+
+V
+
+(IPM) used i 
+(at 2021-26-07 11:36:57 with cpu running @ 3771mhz)
+
+V
+
+
+
+V
+
+(IPM) used i 
+(at 2021-26-07 11:37:15 with cpu running @ 3760mhz)
+
+V
+
+
+
+V
+
+(IPM) used i 
+(at 2021-26-07 11:37:32 with cpu running @ 3816mhz)
+
+V
+
+
+
+V
+
+(IPM) used i 
+(at 2021-26-07 11:40:29 with cpu running @ 3786mhz)
+
+V
+
+
+
+V
+
+(IPM) used i 
+(at 2021-26-07 11:41:50 with cpu running @ 3835mhz)
+
+V
+
+
+
+V
+
+(IPM) used i 
+(at 2021-26-07 11:42:2 with cpu running @ 3753mhz)
+
+V
+
+
+
+V
+
+(IPM) used i 
+(at 2021-29-07 9:36:20 with cpu running @ 3479mhz)
+
+V
+
+
+
+V
+
+(IPM) used i 
+(at 2021-29-07 9:41:54 with cpu running @ 3757mhz)
+
+V
+
+
+
+V
+
+(IPM) used i 
+(at 2021-29-07 9:42:55 with cpu running @ 3830mhz)
+
+V
+
+
+
+V
+
+(IPM) used i 
+(at 2021-29-07 9:44:32 with cpu running @ 3843mhz)
+
+V
+
+
+
+V
+
+(IPM) used i 
+(at 2021-29-07 9:45:24 with cpu running @ 3767mhz)
+
+V
+
+
+
+V
+
+(IPM) used u 
+(at 2021-29-07 9:51:7 with cpu running @ 3769mhz)
+
+V
+
+
+
+V
+
+(IPM) used u 
+(at 2021-29-07 10:4:23 with cpu running @ 3804mhz)
+
+V
+
+
+
+V
+
+(IPM) used u 
+(at 2021-29-07 10:4:46 with cpu running @ 3825mhz)
+
+V
+
+
+
+V
+
+(IPM) used u 
+(at 2021-29-07 10:5:4 with cpu running @ 3777mhz)
+
+V
+
+
+
+V
+
+(IPM) used u 
+(at 2021-29-07 10:6:10 with cpu running @ 3790mhz)
+
+V
+
+
+
+V
+
+(IPM) used u 
+(at 2021-29-07 10:6:32 with cpu running @ 3779mhz)
+
+V
+
+
+
+V
+
+(IPM) used u 
+(at 2021-29-07 10:6:49 with cpu running @ 3743mhz)
+
+V
+

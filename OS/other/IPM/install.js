@@ -6,8 +6,10 @@ module.exports = async (args) =>{
 
     const shell = require('shelljs')
     const fs = require('fs')
+    const fse = require('fs-extra')
 
     const findInJson = require('../findinjson')
+    const rmdir = require('../removedir')
 
     const theRepo = findInJson(repo, args[2])
     
@@ -30,7 +32,15 @@ module.exports = async (args) =>{
     class installPackage extends install{
         async setup(){
 
-            shell.exec(`mv ./OS/temp/IPM/dependencies.txt ./OS/temp/.`)
+            // move the dependencies file
+
+            fs.rename(`./OS/temp/IPM/dependencies.txt`, `./OS/temp/.`, function (err) {
+                if (err) console.log(`there was an error while installing the package`)
+                else console.log('successfully moved dependencies file')
+            })
+
+            // install the dependencies
+
             await fs.readFile('./OS/temp/dependencies.txt', 'utf8', (err, data) =>{
                 if(err){
                     console.log(`an error occured while loading dependencies for this package.`)
@@ -38,9 +48,32 @@ module.exports = async (args) =>{
                     shell.exec(`npm i ${data}`)
                 }
             })
-            await shell.exec(`cp ./OS/temp/IPM/. ./OS/. -r`)
-            await shell.exec(`rm -rf ./OS/temp/IPM`)
-            await shell.exec(`rm -rf ./OS/temp/dependencies.txt`)
+
+            // copy the package
+
+            fse.copySync(`./OS/temp/IPM/.`, `./OS/.`, {overwrite: true}, (err) =>{
+                if(err){                 
+                    console.log(`there was an error while installing this package`)      
+                }else{
+                    console.log("successfully copied the package files");
+                }
+            });
+
+            // remove the garbaj
+
+            // remove the temporary package files
+
+            rmdir(`./OS/temp/IPM`)
+            
+            // remove dependencies.txt
+
+            await fs.unlink('./OS/temp/dependencies.txt', (err) =>{
+                if(err) console.log(`there was an error while removing temporary package files`);
+                console.log('successfully deleted the dependencies file');
+            });
+
+            // add the package to the installed list
+
             await fs.appendFile('./OS/var/IPM/installed.txt', this.packageToInstall, (err) =>{
                 if(err){
                     console.log(`an error occured.`)

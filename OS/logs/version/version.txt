@@ -12,3 +12,17 @@ beta 0.0.1
 
 V
 
+
+
+V
+
+
+
+version of IPM
+beta 0.0.1
+
+ 
+(at 2021-26-07 11:26:24 with cpu running @ 3742mhz)
+
+V
+
